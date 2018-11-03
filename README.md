@@ -1,0 +1,2 @@
+# go-metaphone
+Phonetic algorithm
